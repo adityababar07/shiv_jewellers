@@ -1,11 +1,14 @@
 import React from "react";
+import 'bootstrap';
 
-const Navbar = () => {
-    return(
+const Nav = () => {
+    return (
         <div>
-            
+            <nav className="navbar navbar-light" style="background-color: {#e3f2fd};">
+
+</nav>
         </div>
     )
 }
 
-export default Navbar;
+export default Nav;
