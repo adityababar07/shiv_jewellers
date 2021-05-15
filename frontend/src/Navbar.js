@@ -1,15 +1,15 @@
 import React from "react";
-import { Menu } from 'antd';
+// import { Menu } from 'antd';
 
 const Navbar = () => {
     return (
         <div className="navbar">
             <header>
-                <Menu onClick={this.handleClick} selectedKeys={[current]} mode="horizontal" >
+                {/* <Menu onClick={this.handleClick} selectedKeys={[current]} mode="horizontal" >
                     <Menu.Item key="mail" icon={<MailOutlined />}>
                         Navigation One
         </Menu.Item>
-                </Menu>
+                </Menu> */}
             </header>
         </div>
     )
