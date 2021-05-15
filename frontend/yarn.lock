@@ -8725,6 +8725,11 @@
     "slice-ansi" "1.0.0"
     "string-width" "^2.1.1"
 
+"tachyons@^4.12.0":
+  "integrity" "sha512-2nA2IrYFy3raCM9fxJ2KODRGHVSZNTW3BR0YnlGsLUf1DA3pk3YfWZ/DdfbnZK6zLZS+jUenlUGJsKcA5fUiZg=="
+  "resolved" "https://registry.npmjs.org/tachyons/-/tachyons-4.12.0.tgz"
+  "version" "4.12.0"
+
 "tapable@^0.2.7":
   "integrity" "sha512-2wsvQ+4GwBvLPLWsNfLCDYGsW6xb7aeC6utq2Qh0PFwgEy7K7dsma9Jsmb2zSQj7GvYAyUGSntLtsv++GmgL1A=="
   "resolved" "https://registry.npmjs.org/tapable/-/tapable-0.2.9.tgz"

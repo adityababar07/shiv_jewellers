@@ -1,4 +1,4 @@
 Django==3.0
-psycopg--binary
+psycopg2-binary
 pylint
 
