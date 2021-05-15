@@ -1,14 +1,18 @@
 import React from "react";
-import 'bootstrap';
+import { Menu } from 'antd';
 
-const Nav = () => {
+const Navbar = () => {
     return (
-        <div>
-            <nav className="navbar navbar-light" style="background-color: {#e3f2fd};">
-
-</nav>
+        <div className="navbar">
+            <header>
+                <Menu onClick={this.handleClick} selectedKeys={[current]} mode="horizontal" >
+                    <Menu.Item key="mail" icon={<MailOutlined />}>
+                        Navigation One
+        </Menu.Item>
+                </Menu>
+            </header>
         </div>
     )
 }
 
-export default Nav;
+export default Navbar;
