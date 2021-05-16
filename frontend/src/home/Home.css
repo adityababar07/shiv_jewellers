@@ -1,5 +1,11 @@
 .home{
     display: block;
     position: absolute;
-    margin-top: 10%;
+    margin-top: 16%;
+}
+
+#image{
+    display: block;
+    position:relative;
+    margin: 50%;
 }

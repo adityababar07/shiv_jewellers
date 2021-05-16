@@ -1,15 +1,11 @@
-import React, { Component } from 'react';
-import 'tachyons';
-import './Home.css';
+import React from 'react';
+import './Home.css'
 
-class Home extends Component {
-    render() {
-        return (
-            <div className="home">
-                vf f 
-            </div>
-        )
-    }
+const Home = () => {
+    return (
+        <div className="home">
+        </div>
+    );
 }
 
 export default Home;
