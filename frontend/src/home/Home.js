@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
 import 'tachyons';
+import './Home.css';
 
 class Home extends Component {
     render() {
         return (
-            <div className="Home">
+            <div className="home">
+                vf f 
             </div>
         )
     }
