@@ -1,3 +1,11 @@
 .navbar{
     position: absolute;
 }
+
+#navbar_logo{
+    object-fit:cover;
+    overflow: hidden;
+    height: 60px;
+    width: 80px;
+    transform: scale(1.6);
+}
